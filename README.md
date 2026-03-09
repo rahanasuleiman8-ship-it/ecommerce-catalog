@@ -4,6 +4,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+![Year](https://img.shields.io/badge/Year-2025--2026-blue?style=flat)
 
 A modern e-commerce product catalog built with React, TypeScript, and Redux Toolkit. Features product browsing, filtering, and shopping cart functionality.
 
@@ -112,6 +114,12 @@ npm start
 ## 📄 License
 
 MIT License
+
+## 📅 Project Timeline
+
+- **Started:** November 2025
+- **Completed:** January 2026
+- **Duration:** 8 weeks
 
 ## 📬 Contact
 
